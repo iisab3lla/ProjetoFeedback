@@ -1,0 +1,22 @@
+Gabi Arendy Ferrarini
+
+- Participativa
+- organização
+- Trabalho em equipe
+
+Gabriela Reppold
+
+- Participativa
+- Capacidade analítica
+- Trabalho em equipe
+
+Johann Patricio Daniel
+
+- Comunicativo
+- Foco
+- Praticidade
+
+---------------------------------------------------
+
+Tecnologias: HTML, CSS, JavaScript
+Framework: Bootstrap
